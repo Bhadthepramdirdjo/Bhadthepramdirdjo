@@ -5,7 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhadthepramdirdjo&label=Profile%20views&color=0e75b6&style=flat" alt="bhadthepramdirdjo" /> </p>
 
-- 🔭 I’m currently working on **TUBES KULIAH**
+- 🔭 I’m currently working on **SKRISIII**
+- 🔭 I’m currently working on **DoksliApps**
 
 - 📫 How to reach me **bhadriko7@gmail.com**
 
